@@ -1,0 +1,14 @@
+{
+  "name": "gitbook-plugin-sourcefile",
+  "description": "Include source code from external file",
+  "main": "index.js",
+  "version": "0.1.0",
+  "engines": {
+    "gitbook": "*"
+  },
+  "repository": "artcom/gitbook-plugin-sourcefile",
+  "devDependencies": {
+    "eslint": "^1.0.0"
+  },
+  "license": "MIT"
+}
