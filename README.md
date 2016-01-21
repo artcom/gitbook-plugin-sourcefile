@@ -12,3 +12,9 @@ Add this to `book.json`:
     "plugins": ["sourcefile"]
 }
 ```
+
+## Usage
+
+```
+{{ "./index.html" | sourcefile }}
+```
